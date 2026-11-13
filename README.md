@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24200036.svg)](https://doi.org/10.5281/zenodo.24200036)
+
 # A catalogue of R Coronae Borealis and dustless HdC stars
 
 Positions, classifications and literature provenance for the known

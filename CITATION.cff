@@ -7,6 +7,8 @@ authors:
     given-names: Patrick
     affiliation: "Sorbonne Université, CNRS, UMR 7095, Institut d'Astrophysique de Paris, France"
     orcid: "https://orcid.org/0000-0003-4237-0520"
+doi: "10.5281/zenodo.24200036"
+repository-code: "https://github.com/ptisserand-hdc/hdc-catalogue"
 license: CC-BY-4.0
 version: "1.0.0"
 url: "https://rcb.iap.fr"
