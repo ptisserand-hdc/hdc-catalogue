@@ -1,0 +1,88 @@
+# Column definitions. 'vocab' names a key in vocabularies.yml; 'required'
+# columns may not be empty. 'group: monitoring' marks the registry files,
+# which share the common columns listed in MONITORING_COMMON (validate.py)
+# and are standalone (no foreign key to core).
+
+core:
+  file: data/core.csv
+  primary_key: name
+  columns:
+    name:               {dtype: str,   required: true}
+    gaia_dr3_source_id: {dtype: str,   required: false}
+    ra_deg:             {dtype: float, required: true,  unit: deg}
+    dec_deg:            {dtype: float, required: true,  unit: deg}
+    class:              {dtype: str,   required: true,  vocab: class}
+    class_confidence:   {dtype: str,   required: true,  vocab: class_confidence}
+    location:           {dtype: str,   required: true,  vocab: location}
+    rcb_iap_url:        {dtype: str,   required: false}
+    simbad_id:          {dtype: str,   required: false}
+    comment:            {dtype: str,   required: false}
+
+classification:
+  file: data/classification.csv
+  foreign_key: name
+  columns:
+    name:           {dtype: str, required: true}
+    event:          {dtype: str, required: true, vocab: event}
+    class_assigned: {dtype: str, required: true, vocab: class}
+    method:         {dtype: str, required: true, vocab: method, multi: " + "}
+    ref_bibcode:    {dtype: str, required: true}
+    year:           {dtype: int, required: false}
+    flag:           {dtype: str, required: false, vocab: flag}
+    comment:        {dtype: str, required: false}
+
+# ---- monitoring registry: three source-partitioned files, shared schema ----
+monitoring_t2020:
+  file: data/T2020_RCB-ToI_monitoring.csv
+  group: monitoring
+  columns:
+    name:               {dtype: str,  required: true}
+    gaia_dr3_source_id: {dtype: str,  required: false}
+    ra_deg:             {dtype: float, required: false, unit: deg}
+    dec_deg:            {dtype: float, required: false, unit: deg}
+    source:             {dtype: str,  required: true, vocab: source}
+    status:             {dtype: str,  required: true, vocab: status}
+    nature:             {dtype: str,  required: false, vocab: nature}
+    ref_bibcode:        {dtype: str,  required: false}
+    public:             {dtype: bool, required: true}
+    monitor:            {dtype: bool, required: true}
+    comment:            {dtype: str,  required: false}
+    toi_number:         {dtype: str,  required: false}
+    priority_group:     {dtype: str,  required: false}
+    followup_method:    {dtype: str,  required: false, vocab: method, multi: " + "}
+    spec_date:          {dtype: str,  required: false}
+
+monitoring_t2022:
+  file: data/T2022_dLHdC_Candidates_monitoring.csv
+  group: monitoring
+  columns:
+    name:               {dtype: str,  required: true}
+    gaia_dr3_source_id: {dtype: str,  required: false}
+    ra_deg:             {dtype: float, required: false, unit: deg}
+    dec_deg:            {dtype: float, required: false, unit: deg}
+    source:             {dtype: str,  required: true, vocab: source}
+    status:             {dtype: str,  required: true, vocab: status}
+    nature:             {dtype: str,  required: false, vocab: nature}
+    ref_bibcode:        {dtype: str,  required: false}
+    public:             {dtype: bool, required: true}
+    monitor:            {dtype: bool, required: true}
+    comment:            {dtype: str,  required: false}
+    dlhdc_group:        {dtype: str,  required: false}
+    shell_flag:         {dtype: str,  required: false}
+
+monitoring_other:
+  file: data/OtherSources_RCB_Candidates_monitoring.csv
+  group: monitoring
+  columns:
+    name:               {dtype: str,  required: true}
+    gaia_dr3_source_id: {dtype: str,  required: false}
+    ra_deg:             {dtype: float, required: false, unit: deg}
+    dec_deg:            {dtype: float, required: false, unit: deg}
+    source:             {dtype: str,  required: true, vocab: source}
+    status:             {dtype: str,  required: true, vocab: status}
+    nature:             {dtype: str,  required: false, vocab: nature}
+    ref_bibcode:        {dtype: str,  required: false}
+    public:             {dtype: bool, required: true}
+    monitor:            {dtype: bool, required: true}
+    comment:            {dtype: str,  required: false}
+    origin_survey:      {dtype: str,  required: false}

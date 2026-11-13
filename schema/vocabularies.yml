@@ -1,0 +1,106 @@
+# Controlled vocabularies. Values in data/*.csv are checked against these
+# (whitespace-trimmed; combined methods are split on ' + ' and each token
+# checked). v1 catalogue scope is RCB + dLHdC (+ Hot_RCB).
+
+class:
+  RCB: R Coronae Borealis star
+  dLHdC: dustless hydrogen-deficient carbon star
+  Hot_RCB: hot RCB (Teff > ~12000 K), emission lines + RCB-like declines
+  EHe: extreme helium star (not in v1)
+  DYPer: DY Persei variable (not in v1)
+  HdC_candidate: HdC star of undetermined subtype
+
+class_confidence:
+  confirmed: spectroscopically confirmed
+  strong_candidate: spectroscopy done but not conclusive (SNR, decline, extinction)
+  probable: strong evidence, spectroscopy incomplete
+  candidate: photometric or IR selection only
+  rejected: shown not to belong to the assigned class
+
+location:
+  Galactic: Milky Way
+  LMC: Large Magellanic Cloud
+  SMC: Small Magellanic Cloud
+
+event:
+  proposed: first published as a candidate of this class
+  confirmed: class established (normally spectroscopically)
+  strong_candidate: spectroscopy done, features seen but not conclusive
+  reclassified: class changed from a previously published one
+  rejected: shown not to be a member of the previously assigned class
+  recovered: independently rediscovered under another designation
+
+method:
+  IR_colours: mid-IR colour selection (e.g. WISE)
+  Opt_spectroscopy: optical spectrum
+  IR_spectroscopy: near-/mid-IR spectrum
+  Opt_light_curve: optical light curve (declines, amplitude, timescales)
+  IR_light_curve: infrared light curve
+  high_res_spectroscopy: R > 20000 spectrum, abundance-grade
+  sed_fit: fit of the spectral energy distribution
+  catalogue_mean: mean magnitude from a survey catalogue
+  light_curve_max: maximum-light magnitude from a light curve
+
+# ---- monitoring registry vocabularies ----
+status:
+  pending: selected, not yet followed up
+  weak_candidate: followed up, weak/ambiguous RCB-like features
+  strong_candidate: followed up, strong but not conclusive features
+  confirmed: confirmed HdC star (also present in core.csv)
+  rejected: shown not to be an HdC star
+
+nature:        # for status=rejected: what it actually is
+  Mira: Mira / long-period variable
+  RVTau: RV Tauri star
+  M_star: oxygen-rich M star
+  carbon_star: ordinary (N/J/…) carbon star
+  YSO: young stellar object
+  LPV: long-period variable, subtype unspecified
+  EHe: extreme helium star
+  DYPer: DY Persei variable
+  other_non_HdC: other object, not hydrogen-deficient
+  unknown: nature not established
+
+source:        # origin of the monitoring row
+  T2020_ToI: Tisserand et al. 2020 targets of interest
+  T2022_dLHdC: Tisserand et al. 2022 dLHdC analysis
+  ASAS-SN: {}
+  PGIR: {}
+  OGLE: {}
+  EROS2: {}
+  MACHO: {}
+  Gaia: {}
+  literature: published elsewhere
+  other: other / internal
+
+# ---- field vocabularies reused across tables ----
+survey:
+  ASAS-SN: {}
+  ATLAS: {}
+  ZTF: {}
+  LSST: {}
+  Gaia_DR2: {}
+  Gaia_DR3: {}
+  Gaia_DR4: {}
+  OGLE: {}
+  EROS2: {}
+  MACHO: {}
+  SkyMapper: {}
+  2MASS: {}
+  WISE: {}
+  NEOWISE: {}
+  Pan-STARRS: {}
+  AAVSO: {}
+  literature: {}
+
+temp_scheme:
+  Crawford: Crawford spectroscopic temperature classification
+  other: another scheme, named in comment
+
+flag:
+  decline_biased: value averaged over epochs including dust declines
+  saturated: at/beyond detector saturation
+  blended: photometry affected by a neighbour within the PSF
+  uncertain: quantity poorly constrained
+  superseded: kept for history; a better value exists
+  unverified: draft entry, not yet checked by a human

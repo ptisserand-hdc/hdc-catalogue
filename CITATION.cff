@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "A catalogue of R Coronae Borealis and dustless HdC stars"
+message: "If you use this catalogue, please cite it via its Zenodo DOI."
+type: dataset
+authors:
+  - family-names: Tisserand
+    given-names: Patrick
+    affiliation: "Sorbonne Universit\'e, CNRS, UMR 7095, Institut d'Astrophysique de Paris, 98 bis bd Arago, 75014 Paris, France"
+    orcid: "https://orcid.org/0000-0003-4237-0520"
+license: CC-BY-4.0
+version: "1.0.0"
+url: "https://rcb.iap.fr"

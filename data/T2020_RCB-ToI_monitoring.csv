@@ -1,0 +1,2 @@
+name,gaia_dr3_source_id,ra_deg,dec_deg,source,status,nature,ref_bibcode,public,monitor,comment,toi_number,priority_group,followup_method,spec_date
+GDS J1613117-503040,,243.29913,-50.51122,T2020_ToI,strong_candidate,,2020A&A...635A..14T,true,true,added as RCB candidate (two dust shells; not IR-selected),,,,

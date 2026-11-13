@@ -1,0 +1,598 @@
+name,event,class_assigned,method,ref_bibcode,year,flag,comment
+ASAS-RCB-1,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-1,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-10,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-10,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-10,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-11,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-11,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-11,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-12,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-12,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-12,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-13,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-13,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-13,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-14,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-14,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-14,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-15,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-15,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-15,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-16,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-16,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-16,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-17,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-17,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-17,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-18,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-18,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-18,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-19,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-19,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-19,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-2,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-2,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-2,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-20,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-20,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-20,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-21,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-21,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-21,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-3,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-3,proposed,RCB,Opt_light_curve,2012ApJ...755...98M,2012,,used Machine-learning technique to select lightcurves
+ASAS-RCB-3,confirmed,RCB,Opt_spectroscopy,2012ApJ...755...98M,2012,,
+ASAS-RCB-3,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-3,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-4,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-4,proposed,RCB,Opt_light_curve,2012ApJ...755...98M,2012,,used Machine-learning technique to select lightcurves
+ASAS-RCB-4,confirmed,RCB,Opt_spectroscopy,2012ApJ...755...98M,2012,,
+ASAS-RCB-4,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-4,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-5,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-5,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-5,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-6,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-6,proposed,RCB,Opt_light_curve,2012ApJ...755...98M,2012,,used Machine-learning technique to select lightcurves
+ASAS-RCB-6,confirmed,RCB,Opt_spectroscopy,2012ApJ...755...98M,2012,,
+ASAS-RCB-6,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-6,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-7,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-7,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-8,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-8,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+ASAS-RCB-9,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASAS-RCB-9,proposed,RCB,Opt_light_curve,2012ApJ...755...98M,2012,,used Machine-learning technique to select lightcurves
+ASAS-RCB-9,confirmed,RCB,Opt_spectroscopy,2012ApJ...755...98M,2012,,
+ASAS-RCB-9,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,
+ASAS-RCB-9,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+EROS2-CG-RCB-1,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-1,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-10,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-10,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-11,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-11,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-12,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-12,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-13,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-13,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-14,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-14,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-3,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-3,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-4,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-4,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-5,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-5,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-6,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-6,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-7,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-7,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-8,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-8,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-9,proposed,RCB,Opt_light_curve,2008A&A...481..673T,2008,,
+EROS2-CG-RCB-9,confirmed,RCB,Opt_spectroscopy,2008A&A...481..673T,2008,,
+MACHO-135.27132.51,proposed,RCB,Opt_light_curve,2005AJ....130.2293Z,2005,,
+MACHO-135.27132.51,confirmed,RCB,Opt_spectroscopy,2005AJ....130.2293Z,2005,,
+MACHO-301.45783.9,proposed,RCB,Opt_light_curve,2005AJ....130.2293Z,2005,,
+MACHO-301.45783.9,confirmed,RCB,Opt_spectroscopy,2005AJ....130.2293Z,2005,,
+MACHO-308.38099.66,proposed,RCB,Opt_light_curve,2005AJ....130.2293Z,2005,,
+MACHO-308.38099.66,confirmed,RCB,Opt_spectroscopy,2005AJ....130.2293Z,2005,,
+MACHO-401.48170.2237,proposed,RCB,Opt_light_curve,2005AJ....130.2293Z,2005,,
+MACHO-401.48170.2237,confirmed,RCB,Opt_spectroscopy,2005AJ....130.2293Z,2005,,
+OGLE-GC-RCB-1,proposed,RCB,Opt_light_curve,2011A&A...529A.118T,2011,,
+OGLE-GC-RCB-1,confirmed,RCB,Opt_spectroscopy,2011A&A...529A.118T,2011,,
+WISE J110008.77-600303.6,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J110008.77-600303.6,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J110008.77-600303.6,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J132354.47-673720.8,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J132354.47-673720.8,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J132354.47-673720.8,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J150104.50-563325.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J150104.50-563325.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J150104.50-563325.1,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J160205.48-552741.6,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J160205.48-552741.6,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J160205.48-552741.6,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J161156.23-575527.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J161156.23-575527.1,proposed,RCB,Opt_light_curve,2017ATel11017....1J,2017,,
+WISE J161156.23-575527.1,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,
+WISE J161156.23-575527.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J161156.23-575527.1,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J163450.35-380218.5,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J163450.35-380218.5,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J163450.35-380218.5,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J164704.67-470817.8,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J164704.67-470817.8,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J164704.67-470817.8,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J170343.87-385126.6,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J170343.87-385126.6,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J170343.87-385126.6,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J171815.36-341339.9,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J171815.36-341339.9,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J171815.36-341339.9,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J171908.50-435044.6,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J171908.50-435044.6,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J172447.52-290418.6,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J172447.52-290418.6,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J172447.52-290418.6,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J172553.80-312421.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J172553.80-312421.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J172553.80-312421.1,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J172951.80-101715.9,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J172951.80-101715.9,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J172951.80-101715.9,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J173202.75-432906.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J173202.75-432906.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J173202.75-432906.1,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J173553.02-364104.3,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J173553.02-364104.3,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J173553.02-364104.3,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J173819.81-203632.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J173819.81-203632.1,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,
+WISE J173819.81-203632.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J173819.81-203632.1,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J174111.80-281955.3,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J174111.80-281955.3,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J174119.57-250621.2,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J174119.57-250621.2,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J174138.87-161546.4,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J174138.87-161546.4,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J174138.87-161546.4,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J174257.19-362052.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J174257.19-362052.1,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,
+WISE J174257.19-362052.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J174257.19-362052.1,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J174328.50-375029.0,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J174328.50-375029.0,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,
+WISE J174328.50-375029.0,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J174328.50-375029.0,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J174645.90-250314.1,proposed,RCB,IR_colours + Opt_spectroscopy,2011A&A...529A.118T,2011,,named GLIMPSE-RCB-Cand-1
+WISE J174645.90-250314.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J174645.90-250314.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J174645.90-250314.1,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J174851.29-330617.0,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J174851.29-330617.0,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J174851.29-330617.0,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J175031.70-233945.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J175031.70-233945.7,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,
+WISE J175031.70-233945.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J175031.70-233945.7,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J175107.12-242357.3,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J175107.12-242357.3,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J175107.12-242357.3,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J175521.75-281131.2,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J175521.75-281131.2,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J175558.51-164744.3,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J175558.51-164744.3,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J175558.51-164744.3,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J175749.76-075314.9,proposed,RCB,IR_colours + Opt_spectroscopy,2011A&A...529A.118T,2011,,named GLIMPSE-RCB-Cand-2
+WISE J175749.76-075314.9,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J175749.76-075314.9,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J175749.76-075314.9,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J175749.98-182522.8,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J175749.98-182522.8,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J175749.98-182522.8,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J180550.49-151301.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J180550.49-151301.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J180550.49-151301.7,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J181252.50-233304.4,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J181252.50-233304.4,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J181252.50-233304.4,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J181538.25-203845.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J181538.25-203845.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J181538.25-203845.7,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J182334.24-282957.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J182334.24-282957.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J182334.24-282957.1,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J182723.38-200830.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J182723.38-200830.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J182723.38-200830.1,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J182943.83-190246.2,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J182943.83-190246.2,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J182943.83-190246.2,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J183649.54-113420.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J183649.54-113420.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J183649.54-113420.7,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J184158.40-054819.2,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J184158.40-054819.2,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J184158.40-054819.2,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J184246.26-125414.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J184246.26-125414.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J184246.26-125414.7,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J185525.52-025145.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J185525.52-025145.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J185525.52-025145.7,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J194218.38-203247.5,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J194218.38-203247.5,proposed,RCB,Opt_light_curve,2015A&A...575A...2L,2015,,
+WISE J194218.38-203247.5,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J194218.38-203247.5,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J170552.81-163416.5,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J170552.81-163416.5,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,light curve with large amplitude
+WISE J170552.81-163416.5,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J170552.81-163416.5,confirmed,RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+WISE J170552.81-163416.5,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J173737.07-072828.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J173737.07-072828.1,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,
+WISE J173737.07-072828.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J173737.07-072828.1,confirmed,RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+WISE J173737.07-072828.1,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J185726.40+134909.4,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J185726.40+134909.4,confirmed,RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+WISE J185726.40+134909.4,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J181836.38-181732.8,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J181836.38-181732.8,proposed,RCB,IR_light_curve,2021ApJ...910..132K,2021,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J181836.38-181732.8,confirmed,RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+WISE J181836.38-181732.8,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J190813.12+042154.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J190813.12+042154.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J190813.12+042154.1,confirmed,RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+WISE J190813.12+042154.1,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J192348.98+161433.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J192348.98+161433.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J192348.98+161433.7,confirmed,RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+WISE J192348.98+161433.7,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J004822.34+741757.4,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J004822.34+741757.4,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,
+WISE J004822.34+741757.4,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J004822.34+741757.4,proposed,RCB,IR_light_curve,2021ApJ...910..132K,2021,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J004822.34+741757.4,confirmed,RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+WISE J004822.34+741757.4,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J174317.52-182402.4,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J174317.52-182402.4,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,"Interesting ASAS-3 light curve, but too faint for optical spectroscopic follow up"
+WISE J174317.52-182402.4,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,light curve with large amplitude
+WISE J174317.52-182402.4,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J174317.52-182402.4,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J174317.52-182402.4,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J175317.73-194632.5,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J175317.73-194632.5,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J175317.73-194632.5,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J182501.85-230803.9,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J182501.85-230803.9,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J182501.85-230803.9,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J182501.85-230803.9,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J182801.05-100916.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J182801.05-100916.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J182801.05-100916.7,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J183213.53+050454.5,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J183213.53+050454.5,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J183213.53+050454.5,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J183213.53+050454.5,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J184102.48-004136.3,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J184102.48-004136.3,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J184102.48-004136.3,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J190918.81+030531.2,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J190918.81+030531.2,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J175725.03-230426.4,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J175725.03-230426.4,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J175725.03-230426.4,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J175725.03-230426.4,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J180021.11-232202.9,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J180021.11-232202.9,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J180021.11-232202.9,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J180021.11-232202.9,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J203825.90+514140.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J203825.90+514140.7,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J221558.89+422246.2,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J221558.89+422246.2,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J221558.89+422246.2,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J223517.61+593812.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J223517.61+593812.7,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J223517.61+593812.7,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J202514.28+472731.5,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J202514.28+472731.5,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J202514.28+472731.5,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J181400.05-134254.4,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J181400.05-134254.4,strong_candidate,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J194739.93+232638.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J194739.93+232638.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J194739.93+232638.7,strong_candidate,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J193929.35+244504.0,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J193929.35+244504.0,strong_candidate,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J184016.09-035608.9,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J184016.09-035608.9,strong_candidate,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J060405.01+233304.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J060405.01+233304.7,strong_candidate,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J072356.66-124014.0,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J072356.66-124014.0,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J072356.66-124014.0,strong_candidate,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J182649.64-244532.8,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J182649.64-244532.8,strong_candidate,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J222704.54-165948.4,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J222704.54-165948.4,strong_candidate,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+C 2610,proposed,RCB,Opt_light_curve,2023A&A...674A..13E,2023,,Gaia light curve
+C 2610,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+C 2610,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+IRAS 19437+2812,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+IRAS 19437+2812,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+MGAB-V209,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+MGAB-V209,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,Flagged as a possible RCB star on AAVSO by Gabriel Murakawski.
+WISE J164424.53-481205.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J164424.53-481205.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J164424.53-481205.1,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J164433.19-423032.2,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J164433.19-423032.2,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J164433.19-423032.2,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J164440.88-421522.3,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J164440.88-421522.3,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J164440.88-421522.3,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J170738.27-431019.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J170738.27-431019.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J170738.27-431019.7,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J172044.89-315031.7,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J172044.89-315031.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J172044.89-315031.7,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J173837.00-281734.5,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J173837.00-281734.5,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J173837.00-281734.5,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J175136.80-220630.6,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J175136.80-220630.6,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J175136.80-220630.6,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J180313.12-251330.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J180313.12-251330.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J180313.12-251330.1,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J181316.97-253135.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J181316.97-253135.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J181316.97-253135.1,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J182010.96-193453.4,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J182010.96-193453.4,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J182010.96-193453.4,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J182010.96-193453.4,proposed,RCB,IR_light_curve,2021ApJ...910..132K,2021,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J182010.96-193453.4,confirmed,RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+WISE J182010.96-193453.4,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J182235.25-033213.2,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J182235.25-033213.2,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J182235.25-033213.2,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J182235.25-033213.2,proposed,RCB,IR_light_curve,2021ApJ...910..132K,2021,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J182235.25-033213.2,confirmed,RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+WISE J182235.25-033213.2,confirmed,RCB,Opt_spectroscopy,2023MNRAS.521.1674C,2023,,
+WISE J182235.25-033213.2,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J183631.25-205915.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J183631.25-205915.1,proposed,RCB,Opt_light_curve,2013A&A...551A..77T,2013,,"Interesting ASAS-3 light curve, but too faint for optical spectroscopic follow up"
+WISE J183631.25-205915.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J183631.25-205915.1,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J183631.25-205915.1,confirmed,RCB,IR_spectroscopy,2024PASP..136h4201K,2024,,
+WISE J190309.89-302037.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J190309.89-302037.1,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,
+WISE J190309.89-302037.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J190309.89-302037.1,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J191243.06+055313.1,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J191243.06+055313.1,proposed,RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,
+WISE J191243.06+055313.1,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J191243.06+055313.1,strong_candidate,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,Need stronger SNR
+WISE J191243.06+055313.1,proposed,RCB,IR_light_curve,2021ApJ...910..132K,2021,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+WISE J191243.06+055313.1,confirmed,RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+WISE J191243.06+055313.1,proposed,RCB,IR_light_curve,2024PASP..136h4201K,2024,,"light curve from Palomar Gattini IR (PGIR) survey, J band"
+HD 175893,proposed,RCB,Opt_spectroscopy,1896ApJ.....4..142P,1896,,"“Peculiar"""
+HD 175893,confirmed,RCB,Opt_spectroscopy,1953ApJ...117...25B,1953,,
+HD 175893,reclassified,RCB,IR_colours,2012A&A...539A..51T,2012,,Reclassified as an RCB star due to a bright IR shell observed with WISE (Tisserand 2012). It was considered as a dLHdC star before that. No Opt_light_curve declines known.
+C105,proposed,RCB,IR_colours,2022A&A...667A..83T,2022,,bright IR shell
+C105,confirmed,RCB,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+IRAS 1813.5-2419,proposed,RCB,Opt_light_curve,2007PZ.....27....7G,2007,,also named OGLE II BUL SC13 17058
+IRAS 1813.5-2419,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+IRAS 1813.5-2419,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+V391 Sct,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+V391 Sct,confirmed,RCB,Opt_spectroscopy,2013A&A...551A..77T,2013,,
+AO Her,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+AO Her,confirmed,RCB,Opt_light_curve,2014JAVSO..42...13O,2014,,reference to a spectrum taken with the FLOYDS spectrograph on the 2-m LCOGT/Faulkes Telescope North by Tisserand et al. (2013a).. not yet published though.
+AO Her,confirmed,RCB,Opt_spectroscopy,2023MNRAS.521.1674C,2023,,using TNG 3.58-m /Dolores spectrograph at max. brigthness
+ES Aql,confirmed,RCB,Opt_light_curve + Opt_spectroscopy,2002PASP..114..846C,2002,,
+FH Sct,confirmed,RCB,Opt_light_curve,1981ATsir1169....5T,1981,,
+FH Sct,confirmed,RCB,Opt_spectroscopy,1992QJRAS..33..111F,1992,,"“appear H-deficient, reddened RCB star”"
+GU Sgr,proposed,RCB,Opt_light_curve,1927BHarO.852....4L,1927,,
+GU Sgr,proposed,RCB,Opt_light_curve,1959AJ.....64..241H,1959,,
+GU Sgr,confirmed,RCB,Opt_spectroscopy,1967MNRAS.137..119W,1967,,
+NSV 11154,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+NSV 11154,confirmed,RCB,Opt_light_curve + Opt_spectroscopy,2011PASP..123.1149K,2011,,
+RS Tel,confirmed,RCB,Opt_spectroscopy,1953ApJ...117...25B,1953,,
+RT Nor,proposed,RCB,Opt_spectroscopy,1951BHarO.920...32M,1951,,spectrum type R
+RT Nor,confirmed,RCB,Opt_spectroscopy,1967MNRAS.137..119W,1967,,
+RY Sgr,proposed,RCB,Opt_light_curve + Opt_spectroscopy,1896ApJ.....4..142P,1896,,“peculiar spectrum was discovered by Mrs. Fleming”
+RY Sgr,confirmed,RCB,Opt_spectroscopy,1953ApJ...117...25B,1953,,
+RZ Nor,proposed,RCB,Opt_light_curve,1973MNRAS.161..293F,1973,,
+RZ Nor,confirmed,RCB,IR_colours,1978MNRAS.185...23G,1978,,
+R CrB,proposed,RCB,Opt_light_curve,1797RSPT...87..133P,1797,,
+R CrB,proposed,RCB,Opt_spectroscopy,1890MNRAS..51...11E,1890,,
+R CrB,confirmed,RCB,Opt_spectroscopy,1935ApJ....81..369B,1935,,
+SU Tau,proposed,RCB,Opt_light_curve,1916BHarO.617....1R,1916,,"“Mr H.C. Bancroft, Jr. called attention to the decreasing light of the variable star SU Tau”, similar to RCB type."
+SU Tau,confirmed,RCB,Opt_spectroscopy,1953ApJ...117...25B,1953,,
+SV Sge,confirmed,RCB,Opt_spectroscopy,1953ApJ...117...25B,1953,,
+S Aps,confirmed,RCB,Opt_light_curve + Opt_spectroscopy,1896ApJ.....3..296P,1896,,“The spectrum of the fifth star in the following list is of the fourth type”
+UV Cas,proposed,RCB,Opt_light_curve,1914AN....198..271D,1914,,
+UV Cas,proposed,RCB,Opt_light_curve,1960JO.....43...79P,1960,,
+UV Cas,confirmed,RCB,Opt_spectroscopy,1967MNRAS.137..119W,1967,,
+UW Cen,confirmed,RCB,Opt_spectroscopy,1967MNRAS.137..119W,1967,,
+UX Ant,proposed,RCB,Opt_light_curve,1940BHarO.913....1E,1940,,“Variations similar to R Coronae Borealis”
+UX Ant,confirmed,RCB,Opt_spectroscopy,1990Obs...110...90K,1990,,
+U Aqr,confirmed,RCB,Opt_spectroscopy,1979ApJ...233..205B,1979,,
+V1157 Sgr,confirmed,RCB,Opt_spectroscopy,1991Obs...111..244L,1991,,
+V1783 Sgr,confirmed,RCB,Opt_spectroscopy,1991Obs...111..244L,1991,,
+V2331 Sgr,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+V2331 Sgr,confirmed,RCB,Opt_spectroscopy,2023MNRAS.521.1674C,2023,,
+V2552 Oph,proposed,RCB,Opt_light_curve,2003IBVS.5417....1K,2003,,
+V2552 Oph,confirmed,RCB,Opt_spectroscopy,2003PASP..115.1301H,2003,,
+V3795 Sgr,confirmed,RCB,Opt_light_curve + Opt_spectroscopy,1972IBVS..617....1H,1972,,
+V4017 Sgr,proposed,RCB,Opt_light_curve,1975IBVS..958....1H,1975,,
+V4017 Sgr,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,
+V4017 Sgr,confirmed,RCB,Opt_spectroscopy,2023MNRAS.521.1674C,2023,,
+V482 Cyg,proposed,RCB,Opt_light_curve,1949ApJ...109..538W,1949,,
+V482 Cyg,confirmed,RCB,Opt_spectroscopy,1967MNRAS.137..119W,1967,,
+V517 Oph,confirmed,RCB,Opt_light_curve + Opt_spectroscopy,1992Obs...112..158K,1992,,
+V532 Oph,confirmed,RCB,Opt_light_curve + Opt_spectroscopy,2009PASP..121..461C,2009,,
+V532 Oph,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+V739 Sgr,confirmed,RCB,Opt_spectroscopy,1991Obs...111..244L,1991,,
+V854 Cen,proposed,RCB,Opt_light_curve,1986IAUC.4233....3M,1986,,
+V854 Cen,confirmed,RCB,Opt_spectroscopy,1989MNRAS.238P...1K,1989,,
+V CrA,proposed,RCB,Opt_light_curve,1896ApJ.....4..234P,1896,,variability of star CD-38 13089 (Córdoba Durchmusterung catalog)
+V CrA,confirmed,RCB,Opt_spectroscopy,1967MNRAS.137..119W,1967,,
+VZ Sgr,confirmed,RCB,Opt_spectroscopy,1967MNRAS.137..119W,1967,,
+WX CrA,confirmed,RCB,Opt_spectroscopy,1967MNRAS.137..119W,1967,,
+XX Cam,proposed,RCB,Opt_light_curve,1948ApJ...107..413Y,1948,,
+XX Cam,confirmed,RCB,Opt_spectroscopy,1948ApJ...107..413B,1948,,
+Y Mus,confirmed,RCB,Opt_spectroscopy,1967MNRAS.137..119W,1967,,
+Z Umi,confirmed,RCB,Opt_light_curve + Opt_spectroscopy,1994AJ....108..247B,1994,,
+EROS2-SMC-RCB-1,proposed,RCB,Opt_spectroscopy,2003MNRAS.344..325M,2003,,“Suspected RCB star”
+EROS2-SMC-RCB-1,confirmed,RCB,Opt_light_curve + IR_colours,2004A&A...424..245T,2004,,
+EROS2-SMC-RCB-2,proposed,RCB,Opt_light_curve + IR_colours,2004A&A...424..245T,2004,,
+EROS2-SMC-RCB-3,proposed,RCB,Opt_light_curve + IR_colours,2004A&A...424..245T,2004,,
+EROS2-SMC-RCB-4,proposed,RCB,Opt_light_curve,2009A&A...501..985T,2009,,
+MACHO-81.8394.1358,proposed,RCB,Opt_light_curve,1996ApJ...470..583A,1996,,
+MACHO-81.8394.1358,confirmed,RCB,Opt_spectroscopy,1996ApJ...470..583A,1996,,
+MACHO-18.3325.148,proposed,RCB,Opt_light_curve,2001ApJ...554..298A,2001,,
+MACHO-18.3325.148,confirmed,RCB,Opt_spectroscopy,2001ApJ...554..298A,2001,,
+MACHO-6.6575.13,proposed,RCB,Opt_light_curve,2001ApJ...554..298A,2001,,
+MACHO-6.6696.60,proposed,RCB,Opt_light_curve,2001ApJ...554..298A,2001,,
+MACHO-6.6696.60,confirmed,RCB,Opt_spectroscopy,2001ApJ...554..298A,2001,,
+MACHO-16.5641.22,proposed,RCB,Opt_spectroscopy,1983MNRAS.202P..31B,1983,,
+MACHO-16.5641.22,confirmed,RCB,Opt_light_curve,2001ApJ...554..298A,2001,,
+MACHO-79.5743.15,proposed,RCB,Opt_light_curve,2001ApJ...554..298A,2001,,
+MACHO-79.5743.15,confirmed,RCB,Opt_spectroscopy,2001ApJ...554..298A,2001,,
+MACHO-80.6956.207,proposed,RCB,Opt_light_curve,2001ApJ...554..298A,2001,,
+MACHO-80.6956.207,confirmed,RCB,Opt_spectroscopy,2001ApJ...554..298A,2001,,
+MACHO-80.7559.28,proposed,RCB,Opt_light_curve,2001ApJ...554..298A,2001,,
+MACHO-80.7559.28,confirmed,RCB,Opt_spectroscopy,2001ApJ...554..298A,2001,,
+MACHO-12.10803.56,proposed,RCB,Opt_light_curve,2001ApJ...554..298A,2001,,
+MACHO-12.10803.56,confirmed,RCB,Opt_spectroscopy,2001ApJ...554..298A,2001,,
+EROS2-LMC-RCB-1,proposed,RCB,Opt_light_curve,2009A&A...501..985T,2009,,
+EROS2-LMC-RCB-1,confirmed,RCB,Opt_spectroscopy,2009A&A...501..985T,2009,,
+EROS2-LMC-RCB-2,proposed,RCB,Opt_spectroscopy,2003MNRAS.344..325M,2003,,“Suspected RCB star”
+EROS2-LMC-RCB-2,proposed,RCB,Opt_light_curve,2009A&A...501..985T,2009,,
+EROS2-LMC-RCB-2,confirmed,RCB,Opt_spectroscopy,2009A&A...501..985T,2009,,
+EROS2-LMC-RCB-3,proposed,RCB,Opt_light_curve,2009A&A...501..985T,2009,,
+EROS2-LMC-RCB-3,confirmed,RCB,Opt_spectroscopy,2009A&A...501..985T,2009,,
+EROS2-LMC-RCB-4,proposed,RCB,Opt_light_curve,2009A&A...501..985T,2009,,
+EROS2-LMC-RCB-4,confirmed,RCB,Opt_spectroscopy,2009A&A...501..985T,2009,,
+EROS2-LMC-RCB-5,proposed,RCB,Opt_spectroscopy,2003MNRAS.344..325M,2003,,“Suspected RCB star”
+EROS2-LMC-RCB-5,proposed,RCB,Opt_light_curve,2009A&A...501..985T,2009,,
+EROS2-LMC-RCB-5,confirmed,RCB,Opt_spectroscopy,2009A&A...501..985T,2009,,
+EROS2-LMC-RCB-6,proposed,RCB,Opt_light_curve,2009A&A...501..985T,2009,,
+HV 12842,proposed,RCB,Opt_light_curve,1971SCoA...13.....P,1971,,
+HV 12842,confirmed,RCB,Opt_spectroscopy,1972MNRAS.158P..11F,1972,,
+HV 5637,proposed,RCB,Opt_light_curve,1971SCoA...13.....P,1971,,
+HV 5637,confirmed,RCB,Opt_spectroscopy,1972MNRAS.158P..11F,1972,,
+MSX-LMC-1795,proposed,RCB,Opt_light_curve,2009AcA....59..335S,2009,,
+MSX-LMC-1795,strong_candidate,RCB,IR_spectroscopy + Opt_spectroscopy,2014MNRAS.439.1472M,2014,,Need stronger SNR
+MSX-LMC-1795,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+MSX-SMC-014,strong_candidate,RCB,IR_spectroscopy,2005ApJ...631L.147K,2005,,
+KDM 5651,proposed,RCB,Opt_spectroscopy,2003MNRAS.344..325M,2003,,“Suspected RCB star”
+KDM 5651,proposed,RCB,Opt_light_curve,2009AcA....59..335S,2009,,
+KDM 5651,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+ASASJ050232-7218.9,strong_candidate,RCB,Opt_spectroscopy,1979ApJ...230..724R,1979,,"H-deficient, named SP77 33-7"
+ASASJ050232-7218.9,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+ASASJ050232-7218.9,strong_candidate,RCB,Opt_light_curve,2014JAVSO..42...13O,2014,,
+ASASJ050232-7218.9,confirmed,RCB,Opt_spectroscopy,2023MNRAS.521.1674C,2023,,
+KDM 2730,proposed,RCB,Opt_spectroscopy,2001A&A...369..932K,2001,,a carbon star
+KDM 2730,proposed,RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+KDM 2730,strong_candidate,RCB,Opt_light_curve,2020A&A...635A..14T,2020,,OGLE-IV RCOM light curve
+WISE J005010.67-694357.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J005010.67-694357.7,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J005113.58-731036.3,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J005113.58-731036.3,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+WISE J055643.56-715510.7,proposed,RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J055643.56-715510.7,confirmed,RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+W Men,proposed,RCB,Opt_light_curve,1927BHarO.846...33L,1927,,
+W Men,confirmed,RCB,Opt_spectroscopy,1956MNRAS.116..583F,1956,,first correct estimate of absolute visible magnitude at around -5 mag
+DY Cen,proposed,Hot_RCB,Opt_light_curve,1967MNRAS.137..119W,1967,,
+DY Cen,confirmed,Hot_RCB,Opt_spectroscopy,1991MNRAS.248..572P,1991,,
+MV Sgr,proposed,Hot_RCB,Opt_light_curve,1958AJ.....63R..50H,1958,,
+MV Sgr,confirmed,Hot_RCB,Opt_spectroscopy,1964ApJ...140.1317H,1964,,
+V348 Sgr,confirmed,Hot_RCB,Opt_spectroscopy,1958ApJ...127..312H,1958,,
+WISE J005128.08+645651.7,proposed,Hot_RCB,IR_colours,2012A&A...539A..51T,2012,,in RCB enriched catalogue from its WISE colours
+WISE J005128.08+645651.7,proposed,Hot_RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J005128.08+645651.7,confirmed,Hot_RCB,IR_spectroscopy,2021ApJ...910..132K,2021,,
+MSX-LMC-1601,strong_candidate,Hot_RCB,Opt_spectroscopy,2011A&A...530A..90V,2011,,
+MSX-LMC-1601,strong_candidate,Hot_RCB,Opt_spectroscopy,2020A&A...641A.142S,2020,,No optical decline was reported still
+MACHO-11.8632.2507,proposed,Hot_RCB,Opt_light_curve,1996ApJ...470..583A,1996,,
+MACHO-11.8632.2507,confirmed,Hot_RCB,Opt_spectroscopy,1996ApJ...470..583A,1996,,
+WISE J053745.70-635330.8,proposed,Hot_RCB,Opt_light_curve,2019MNRAS.483.4470S,2019,,
+WISE J053745.70-635330.8,proposed,Hot_RCB,IR_colours,2020A&A...635A..14T,2020,,
+WISE J053745.70-635330.8,confirmed,Hot_RCB,Opt_spectroscopy,2020A&A...635A..14T,2020,,
+HD 137613,proposed,dLHdC,Opt_spectroscopy,1892AstAp..11..765F,1892,,Observation that “Star having peculiar spectra“
+HD 137613,confirmed,dLHdC,Opt_spectroscopy,1953ApJ...117...25B,1953,,
+HD 148839,confirmed,dLHdC,Opt_spectroscopy,1963MNRAS.126...61W,1963,,
+HD 173409,confirmed,dLHdC,Opt_spectroscopy,1953ApJ...117...25B,1953,,
+HD 182040,proposed,dLHdC,Opt_spectroscopy,1912ApJ....35..125P,1912,,highlighted Fleming's observation of lack of hydrogen
+HD 182040,confirmed,dLHdC,Opt_spectroscopy,1953ApJ...117...25B,1953,,
+HE 1015-2050,confirmed,dLHdC,Opt_spectroscopy,2010ApJ...723L.238G,2010,,
+B42,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+B42,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+A223,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A223,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+A249,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A249,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+A182,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A182,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+A183,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A183,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+A226,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A226,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+A166,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A166,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,“low-level dust production observed”
+C17,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+C17,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+C27,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+C27,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+C38,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+C38,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+C20,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+C20,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+C526,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+C526,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,low-level dust production observed
+A811,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A811,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+C539,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+C539,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+C528,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+C528,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+B564,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+B564,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+B565,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+B565,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+B566,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+B566,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+B567,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+B567,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+A770,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A770,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+B563,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+B563,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+C542,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+C542,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+A814,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A814,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+A977,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A977,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+A980,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+A980,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,
+SMSS 005551.43-723139.2,proposed,dLHdC,IR_colours,2026arXiv261037404T,2026,,
+SMSS 005551.43-723139.2,confirmed,dLHdC,Opt_spectroscopy,2026arXiv261037404T,2026,,first SMC dLHdC star
+SP77 29-5,proposed,dLHdC,IR_colours,2026arXiv261037404T,2026,,
+SP77 29-5,confirmed,dLHdC,Opt_spectroscopy,2026arXiv261037404T,2026,,first LMC dLHdC star
+F152,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+F152,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,low-level dust production observed
+F75,proposed,dLHdC,IR_colours,2022A&A...667A..83T,2022,,
+F75,confirmed,dLHdC,Opt_spectroscopy,2022A&A...667A..83T,2022,,low-level dust production observed
+M38,confirmed,dLHdC,IR_colours + Opt_spectroscopy,2023MNRAS.521.1674C,2023,,Tisserand et al. (2022) work extended up to E(B-V) = 2.0 mag
+P12,confirmed,dLHdC,IR_colours + Opt_spectroscopy,2023MNRAS.521.1674C,2023,,Tisserand et al. (2022) work extended up to E(B-V) = 2.0 mag

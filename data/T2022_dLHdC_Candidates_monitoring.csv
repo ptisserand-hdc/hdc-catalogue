@@ -1,0 +1,2 @@
+name,gaia_dr3_source_id,ra_deg,dec_deg,source,status,nature,ref_bibcode,public,monitor,comment,dlhdc_group,shell_flag
+EXAMPLE-dLHdC-cand,,0.0,0.0,T2022_dLHdC,weak_candidate,,2022A&A...667A..83T,false,true,TEMPLATE ROW - replace,,

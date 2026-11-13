@@ -1,0 +1,2 @@
+name,gaia_dr3_source_id,ra_deg,dec_deg,source,status,nature,ref_bibcode,public,monitor,comment,origin_survey
+EXAMPLE-other-cand,,0.0,0.0,literature,weak_candidate,,,false,true,TEMPLATE ROW - replace,
